@@ -1,0 +1,22 @@
+.navbar {
+    background-color: gray;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+}
+
+.navbar input {
+    padding: 10px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    height: 25px;
+}
+
+.navbar input:focus {
+    border: 1px solid transparent;
+}
+
+.navbar input:hover {
+    border: 1px solid transparent;
+}
